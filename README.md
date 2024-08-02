@@ -1,0 +1,2 @@
+# csgo_accessories_odoo
+csgo 关于个人游戏饰品资产管理和饰品平台的数据分析项目
